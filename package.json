@@ -2,6 +2,7 @@
   "name": "program16-custom-toggle-hook",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://2024-bca-a-afzal.github.io/rjs-prg15",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
